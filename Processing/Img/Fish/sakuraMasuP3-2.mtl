@@ -1,0 +1,35 @@
+newmtl body
+Ns 49.0583
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.811765 0.811765 0.811765
+map_Kd Img/Fish/sakura_p3b-3.jpg
+map_Bump  sakura_p3bBump3.jpg
+newmtl fin
+Ns 48.0971
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.87451 0.87451 0.87451
+map_Kd Img/Fish/sakura_p3b-3.jpg
+map_Bump  sakura_p3bBump3.jpg
+newmtl head
+Ns 50.0194
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.811765 0.811765 0.811765
+map_Kd Img/Fish/sakura_p3b-3.jpg
+map_Bump  sakura_p3bBump3.jpg
+newmtl eye-outer
+Ns 30
+Ka 0 0 0
+Kd 0.501961 0.501961 0
+Ks 0.0668193 0.156756 0.106371
+map_Kd Img/Fish/sakura_p3b-3.jpg
+map_Bump  sakura_p3bBump3.jpg
+newmtl eye-inner
+Ns 30
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0668193 0.156756 0.106371
+map_Kd Img/Fish/sakura_p3b-3.jpg
+map_Bump  sakura_p3bBump3.jpg
